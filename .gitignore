@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Ham ALFA verisi (~330 MB) repoya girmiyor, veri_indir.py indiriyor
+veri/processed/
+veri/*.zip
+veri/*.part
+
+c/build/
+.DS_Store
